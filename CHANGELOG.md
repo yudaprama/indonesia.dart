@@ -5,3 +5,7 @@
 ## 1.0.1
 
 - Add example to readme
+
+## 2.0.0
+
+- Support null safety
