@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac66c4f-0db3-4fb6-9d6d-a9f42ac0bfab" name="Default Changelist" comment="Support null safety">
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    <list default="true" id="4ac66c4f-0db3-4fb6-9d6d-a9f42ac0bfab" name="Default Changelist" comment="3.0.0">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654001297350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3.0.0">
+      <created>1654001550049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654001550049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3.0.0">
+      <created>1654001652333</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654001652333</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -201,7 +215,8 @@
     <MESSAGE value="add example to readme" />
     <MESSAGE value="upgrade dependencies" />
     <MESSAGE value="Support null safety" />
-    <option name="LAST_COMMIT_MESSAGE" value="Support null safety" />
+    <MESSAGE value="3.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.0.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/src/indonesia_base.dart">
