@@ -12,50 +12,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1372987674">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="LICENSE" value="1" />
-          <entry key="dart" value="5" />
-          <entry key="gitignore" value="1" />
-          <entry key="md" value="2" />
-          <entry key="yaml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Dart" value="5" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="YAML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dart" value="483" />
-          <entry key="gitignore" value="11" />
-          <entry key="md" value="42" />
-          <entry key="txt" value="21" />
-          <entry key="yaml" value="34" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Dart" value="483" />
-          <entry key="Markdown" value="42" />
-          <entry key="PLAIN_TEXT" value="32" />
-          <entry key="YAML" value="34" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
@@ -196,17 +152,21 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
